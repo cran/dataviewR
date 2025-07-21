@@ -1,8 +1,9 @@
-84f72b646f4252054c76bee10fe79ce3 *DESCRIPTION
+4d29b32e9e04aa17fbdc7aac347f9cb3 *DESCRIPTION
 c32db168af7341295fb4d8774521e8cf *LICENSE
 634a53b3992f511a220d08fa505452e7 *NAMESPACE
-5cf5c9ef0ee7c945b824f1fcab516e2f *R/dataviewer.R
-06a7afba3e860d0b89d0d9df3a23c5d5 *README.md
+88cb37e8728052bd8822987e3b173512 *NEWS.md
+abf4845be5c70f9d44c990ea4a7d9e70 *R/dataviewer.R
+36f3aaefbe9a82e5451fa511849ed181 *README.md
 c96ed9192d0f4256a5f455ad88e1c229 *build/vignette.rds
 895bdf464da7de77a91323150c8c35e8 *inst/doc/dataviewR-intro.R
 142242ddfb975cadf05190e3a08c7dc2 *inst/doc/dataviewR-intro.Rmd
@@ -12,5 +13,5 @@ e382557258567fd8f015bc2f822ef6fd *inst/shinyapps/dataviewer_import/app.R
 a139ae958370626ce20aee12ed42cd71 *man/dataviewer.Rd
 a5dd082f18f1a9c599a68675a81b4b22 *man/figures/dataviewR_logo.png
 be4102fff7cfe69e6884761dedef18f0 *tests/testthat.R
-31eac2d804422be3b08f5a554f895bb2 *tests/testthat/test-dataviewer.R
+7e4fb1554f682676ea5425c9ab1116ed *tests/testthat/test-dataviewer.R
 142242ddfb975cadf05190e3a08c7dc2 *vignettes/dataviewR-intro.Rmd

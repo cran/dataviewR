@@ -1,6 +1,6 @@
 Package: dataviewR
 Title: An Interactive and Feature-Rich Data Viewer
-Version: 1.0.0
+Version: 1.0.1
 Depends: R (>= 4.2.0)
 Authors@R: 
     c(person("Madhan", "Kumar N", , "madhanmanoj1999@gmail.com", role = c("aut", "cre")),
@@ -20,11 +20,11 @@ Suggests: knitr, rmarkdown, testthat (>= 3.0.0), shinytest2
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2026-01-10 14:26:29 UTC; Dell
+Packaged: 2026-01-16 08:14:39 UTC; Dell
 Author: Madhan Kumar N [aut, cre],
   Siddhesh Pujari [aut],
   Gomathi S [aut],
   Mackenzie Haight [aut]
 Maintainer: Madhan Kumar N <madhanmanoj1999@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-01-10 14:50:07 UTC
+Date/Publication: 2026-01-16 13:00:09 UTC

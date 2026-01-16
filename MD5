@@ -1,9 +1,9 @@
-3f867bd6b93f978cf9d4395f8cc63ca7 *DESCRIPTION
+8b9ef6ed9dcbf30b073a418064143414 *DESCRIPTION
 c32db168af7341295fb4d8774521e8cf *LICENSE
 c6ef67d577e43b5e9f16a20656be02b3 *NAMESPACE
-58a7199845bbb40e51b9d706fdc300a5 *NEWS.md
-1c7b1bb4e4c304b9bcacfb35fd67063e *R/dataviewer.R
-4e8411b5478d096fbaf4c98649588324 *R/dataviewer_tab_server.R
+4789a66c7529068c6b2e6caf8c431693 *NEWS.md
+6ac5d4e37a744e166a4e938dda500fca *R/dataviewer.R
+01b949a35aa4fe43ccc2ad225f7c9026 *R/dataviewer_tab_server.R
 fcc4511294b9124938633a7d71da18c1 *R/dataviewer_tab_ui.R
 a501286809dcbd3833efcb1744c11037 *R/dataviewer_ui_head.R
 0924088862bf958187e7ec8d058791bf *R/list_dataviewers.R
@@ -36,6 +36,7 @@ ed85c17dea47673c14d30b4d4c32d915 *tests/testthat/test-background_process.R
 cdb2d5cb382f82bc8fb7504277dca071 *tests/testthat/test-dataviewer_module.R
 160d6d6f1a380d39be1bed805bf89abb *tests/testthat/test-error_handling.R
 b8b6109f10987b27ba36f8a4d9f84917 *tests/testthat/test-module_advanced.R
+ac44a3a6b81e677972a8342d19a59b7e *tests/testthat/test-smart_launch.R
 19a41669f3a02b6e081a0bde583521db *tests/testthat/test-tab_management.R
 9c415c485e89a9c13fc1dbc323fc431e *vignettes/Exporting-and-Reproducibility.Rmd
 46066dbcf93d13b7c953f43c0d32c28f *vignettes/Filtering-Expressions.Rmd
